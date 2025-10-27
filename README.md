@@ -65,6 +65,8 @@ PhantomGuard replaces traditional deterrents like fire and crackers with spooky 
 ## 📦 Installation
 
 ```bash
+Try It Out Video https://youtu.be/WXbRhvKMkus
+Field demo https://youtu.be/IMhw8X6nVaU
 git clone 
 cd 
 
