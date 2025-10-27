@@ -30,7 +30,7 @@ PhantomGuard is a Halloween-themed, eco-friendly handheld torch designed to safe
 
 ## 🛠️ How It Works
 
-PhantomGuard replaces traditional deterrents like fire and crackers with spooky but safe alternatives. When activated, it emits visual and audio signals that animals instinctively avoid—protecting villagers, crops, and livestock.
+PhantomGuard Halloween-themed sounds with spooky but safe alternatives. When activated, it emits visual and audio signals that animals instinctively avoid—protecting villagers, crops, and livestock.
 
 ---
 
