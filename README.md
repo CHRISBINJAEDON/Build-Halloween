@@ -62,8 +62,8 @@ PhantomGuard Halloween-themed sounds with spooky but safe alternatives. When act
 - SDG 15 – Life on Land
 
 Try It Out Video https://youtu.be/WXbRhvKMkus
-Field demo https://youtu.be/IMhw8X6nVaU
-presentation Video 
+Field demo Video https://youtu.be/IMhw8X6nVaU
+presentation Video https://youtu.be/21E5duvt2j8
 ---
 
 ## 📦 Installation
